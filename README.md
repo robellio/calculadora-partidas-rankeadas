@@ -23,3 +23,14 @@ Se vitórias for maior ou igual a 101 = Imortal
 Ao final deve se exibir uma mensagem:
 
 "O Herói tem de saldo de **{saldoVitorias}** está no nível de **{nivel}**"
+
+## Como executar o programa?
+
+<p>
+primeiro é necessário ter o <strong>nodeJs</strong> instalado na máquina e você pode obte-lo em : <a href="https://nodejs.org/en">NodeJS</a>
+</p>
+
+<p>
+Tendo instalado o nodejs é só clonar o repositório para sua máquina e no git bash ou terminal digitar: <strong>npm install</strong> para termos acesso a todos os pacotes externos necessários para rodar o
+projeto, depois é só digitar <strong>node index.js</strong> e o programa será executado.
+</p>
